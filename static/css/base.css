@@ -5,7 +5,7 @@ html {
 }
 
 body {
-    background: url('/media/moviebox\ background\ image.jpeg') no-repeat center center fixed;
+    background: url('/media/moviebox\ background\ image5.jpeg') no-repeat center center fixed;
     background-size: cover;
     height: calc(100vh - 164px);
     color: #D90429;
@@ -41,10 +41,27 @@ body {
     color: white;
 }
 
+.shop-here-button {
+    background: black;
+    color: white;
+    min-width: 260px;
+}
+
+
+.btn-outline-black:hover,
+.btn-outline-black:active,
+.btn-outline-black:focus {
+    background: black;
+    color: white !important;
+}
+
+.shop-here-button:hover,
+.shop-here-button:active,
+.shop-here-button:focus,
 .btn-black:hover,
 .btn-black:active,
 .btn-black:focus {
-    background: #D90429;
+    background: #222;
     color: white;
 }
 
@@ -58,6 +75,10 @@ body {
 
 .border-black {
     border: 1px solid black !important;
+}
+
+.blurb-text {
+    color: #fff;
 }
 
 /* -------------------------------- Media Queries */
