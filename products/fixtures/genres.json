@@ -1,0 +1,99 @@
+[
+    {
+      "pk": 1,
+      "model": "products.genre",
+      "fields": {
+        "name": "Genre",
+        "friendly_name": "Genre"
+      }
+    },
+
+    {
+        "pk": 1,
+        "model": "products.genre",
+        "fields": {
+          "name": "Horror",
+          "friendly_name": "Horror"
+        }
+      },
+
+      {
+        "pk": 2,
+        "model": "products.genre",
+        "fields": {
+          "name": "Comedy",
+          "friendly_name": "Comedy"
+        }
+      },
+
+      {
+        "pk": 3,
+        "model": "products.genre",
+        "fields": {
+          "name": "Drama",
+          "friendly_name": "Drama"
+        }
+      },
+
+      {
+        "pk": 4,
+        "model": "products.genre",
+        "fields": {
+          "name": "Superhero",
+          "friendly_name": "Superhero"
+        }
+      },
+
+      {
+        "pk": 5,
+        "model": "products.genre",
+        "fields": {
+          "name": "Action",
+          "friendly_name": "Action"
+        }
+      },
+
+      {
+        "pk": 6,
+        "model": "products.genre",
+        "fields": {
+          "name": "Fantasy",
+          "friendly_name": "Fantasy"
+        }
+      },
+
+      {
+        "pk": 7,
+        "model": "products.genre",
+        "fields": {
+          "name": "Family",
+          "friendly_name": "Family"
+        }
+      },
+
+      {
+        "pk": 8,
+        "model": "products.genre",
+        "fields": {
+          "name": "Romantic Comedy",
+          "friendly_name": "Romantic Comedy"
+        }
+      },
+
+      {
+        "pk": 9,
+        "model": "products.genre",
+        "fields": {
+          "name": "Sci-Fi",
+          "friendly_name": "Sci-Fi"
+        }
+      },
+      {
+      "pk": 10,
+      "model": "products.genre",
+      "fields": {
+        "name": "Classics",
+        "friendly_name": "Classics"
+      }
+    }
+]

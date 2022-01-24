@@ -12,7 +12,7 @@
           "image_url": "/media/28 days later.jpg",
           "image": null
     }
-
+    },
     {
         "pk": 2,
         "model": "products.movie",
@@ -26,7 +26,7 @@
           "image_url": "/media/28 days later.jpg",
           "image": null
     }
-
+    },
     {
         "pk": 3,
         "model": "products.movie",
@@ -40,7 +40,7 @@
           "image_url": "/media/anchorman.jpg",
           "image": null
     }
-
+    },
     {
         "pk": 4,
         "model": "products.movie",
@@ -54,7 +54,7 @@
           "image_url": "/media/black panther.jpg",
           "image": null
     }
-
+    },
     {
         "pk": 5,
         "model": "products.movie",
@@ -68,7 +68,7 @@
           "image_url": "/media/borat.jpeg",
           "image": null
     }
-
+    },
     {
         "pk": 6,
         "model": "products.movie",
@@ -82,7 +82,7 @@
           "image_url": "/media/the matrix.jpg",
           "image": null
     }
-
+    },
     {
         "pk": 7,
         "model": "products.movie",
@@ -96,7 +96,7 @@
           "image_url": "/media/the ring.jpeg",
           "image": null
     }
-
+    },
     {
         "pk": 8,
         "model": "products.movie",
@@ -110,7 +110,7 @@
           "image_url": "/media/die hard.jpg",
           "image": null
     }
-
+    },
     {
         "pk": 9,
         "model": "products.movie",
@@ -124,7 +124,7 @@
           "image_url": "/media/avengers endgame.jpeg",
           "image": null
     }
-
+    },
     {
         "pk": 10,
         "model": "products.movie",
@@ -138,7 +138,7 @@
           "image_url": "/media/goodfellas.jpg",
           "image": null
     }
-
+    },
     {
         "pk": 11,
         "model": "products.movie",
@@ -152,7 +152,7 @@
           "image_url": "/media/home alone.jpeg",
           "image": null
     }
-
+    },
     {
         "pk": 12,
         "model": "products.movie",
@@ -166,7 +166,7 @@
           "image_url": "/media/interstellar.jpg",
           "image": null
     }
-
+    },
     {
         "pk": 13,
         "model": "products.movie",
@@ -180,7 +180,7 @@
           "image_url": "/media/lotr1.jpeg",
           "image": null
     }
-
+    },
     {
         "pk": 14,
         "model": "products.movie",
@@ -194,7 +194,7 @@
           "image_url": "/media/lotr2.jpeg",
           "image": null
     }
-
+    },
     {
         "pk": 15,
         "model": "products.movie",
@@ -208,7 +208,7 @@
           "image_url": "/media/lotr3.jpg",
           "image": null
     }
-
+    },
     {
         "pk": 16,
         "model": "products.movie",
@@ -222,7 +222,7 @@
           "image_url": "/media/love actually.jpg",
           "image": null
     }
-
+    },
     {
         "pk": 17,
         "model": "products.movie",
@@ -236,7 +236,7 @@
           "image_url": "/media/mission impossible fallout.jpg",
           "image": null
     }
-
+    },
     {
         "pk": 18,
         "model": "products.movie",
@@ -250,7 +250,7 @@
           "image_url": "/media/napoleon dynamite.jpeg",
           "image": null
     }
-
+    },
     {
         "pk": 19,
         "model": "products.movie",
@@ -264,7 +264,7 @@
           "image_url": "/media/nightmare on elm street.jpg",
           "image": null
     }
-
+    },
     {
         "pk":20,
         "model": "products.movie",
@@ -278,7 +278,7 @@
           "image_url": "/media/pulp fiction.jpeg",
           "image": null
     }
-
+    },
     {
         "pk": 21,
         "model": "products.movie",
@@ -292,7 +292,7 @@
           "image_url": "/media/saving private ryan.jpg",
           "image": null
     }
-
+    },
     {
         "pk": 22,
         "model": "products.movie",
@@ -306,7 +306,7 @@
           "image_url": "/media/shawshank redemption.jpeg",
           "image": null
     }
-
+    },
     {
         "pk": 23,
         "model": "products.movie",
@@ -320,7 +320,7 @@
           "image_url": "/media/spidey1.jpeg",
           "image": null
     }
-
+    },
     {
         "pk": 24,
         "model": "products.movie",
@@ -334,7 +334,7 @@
           "image_url": "/media/star wars 1.jpg",
           "image": null
     }
-
+    },
     {
         "pk":25,
         "model": "products.movie",
@@ -348,7 +348,7 @@
           "image_url": "/media/star wars 2.jpeg",
           "image": null
     }
-
+    },
     {
         "pk": 26,
         "model": "products.movie",
@@ -362,7 +362,7 @@
           "image_url": "/media/white chicks.jpeg",
           "image": null
     }
-
+    },
     {
         "pk": 27,
         "model": "products.movie",
@@ -376,7 +376,7 @@
           "image_url": "/media/star wars 3.jpeg",
           "image": null
     }
-
+    },
     {
         "pk": 28,
         "model": "products.movie",
@@ -390,7 +390,7 @@
           "image_url": "/media/star wars 4.jpeg",
           "image": null
     }
-
+    },
     {
         "pk": 29,
         "model": "products.movie",
@@ -404,7 +404,7 @@
           "image_url": "/media/step brothers.jpg",
           "image": null
     }
-
+    },
     {
         "pk": 30,
         "model": "products.movie",
@@ -418,7 +418,7 @@
           "image_url": "/media/superbad.jpg",
           "image": null
     }
-
+    },
     {
         "pk": 31,
         "model": "products.movie",
@@ -432,7 +432,7 @@
           "image_url": "/media/ted.png",
           "image": null
     }
-
+    },
     {
         "pk": 32,
         "model": "products.movie",
@@ -446,7 +446,7 @@
           "image_url": "/media/the exorcist.jpg",
           "image": null
     }
-
+    },
     {
         "pk":33,
         "model": "products.movie",
@@ -460,7 +460,7 @@
           "image_url": "/media/the godfather.jpg",
           "image": null
     }
-
+    },
     {
         "pk": 34,
         "model": "products.movie",
@@ -474,4 +474,5 @@
           "image_url": "/media/the hangover.jpeg",
           "image": null
     }
+}
 ]
