@@ -1,0 +1,443 @@
+[
+    {
+        "pk": 1,
+        "model": "products.movie",
+        "fields": {
+          "sku": "gg0001",
+          "name": "Name",
+          "description": "Description",
+          "price": 50.50,
+          "category": 1,
+          "image_url": "/media/28 days later.jpg",
+          "image": null
+    }
+
+    {
+        "pk": 1,
+        "model": "products.movie",
+        "fields": {
+          "sku": "gg0002",
+          "name": "28 Days Later",
+          "description": "A group of misguided animal rights activists free a caged chimp infected with the Rage virus from a medical research lab. When London bike courier Jim (Cillian Murphy) wakes up from a coma a month after, he finds his city all but deserted. On the run from the zombie-like victims of the Rage, Jim stumbles upon a group of survivors, including Selena (Naomie Harris) and cab driver Frank (Brendan Gleeson), and joins them on a perilous journey to what he hopes will be safety.",
+          "price": 4.10,
+          "category": 1,
+          "image_url": "/media/28 days later.jpg",
+          "image": null
+    }
+
+    {
+        "pk": 1,
+        "model": "products.movie",
+        "fields": {
+          "sku": "gg0003",
+          "name": "Anchorman",
+          "description": "Hotshot television anchorman Ron Burgundy (Will Ferrell) welcomes upstart reporter Veronica Corningstone (Christina Applegate) into the male-dominated world of 1970s broadcast news -- that is, until the talented female journalist begins to outshine Burgundy on air. Soon he grows jealous, begins a bitter feud with Veronica and eventually makes a vulgar slip on live TV that ruins his career. However, when an outrageous story breaks at the San Diego Zoo, Ron may get a chance to redeem himself.",
+          "price": 3.50,
+          "category": 2,
+          "image_url": "/media/anchorman.jpg",
+          "image": null
+    }
+
+    {
+        "pk": 1,
+        "model": "products.movie",
+        "fields": {
+          "sku": "gg0004",
+          "name": "Black Panther",
+          "description": "After the death of his father, T'Challa returns home to the African nation of Wakanda to take his rightful place as king. When a powerful enemy suddenly reappears, T'Challa's mettle as king -- and as Black Panther -- gets tested when he's drawn into a conflict that puts the fate of Wakanda and the entire world at risk. Faced with treachery and danger, the young king must rally his allies and release the full power of Black Panther to defeat his foes and secure the safety of his people.ption",
+          "price": 6.50,
+          "category": 4,
+          "image_url": "/media/black panther.jpg",
+          "image": null
+    }
+
+    {
+        "pk": 1,
+        "model": "products.movie",
+        "fields": {
+          "sku": "gg0005",
+          "name": "Borat",
+          "description": "Outrageous situations occur when Borat, a popular reporter (Sacha Baron Cohen) from Kazakhstan, comes to the United States to film a documentary on what makes America a great nation. Along the way, he manages to offend just about everyone he meets, fall in love with actress Pamela Anderson, and set forth on a cross-country journey to make her his wife.",
+          "price": 3.50,
+          "category": 2,
+          "image_url": "/media/borat.jpeg",
+          "image": null
+    }
+
+    {
+        "pk": 1,
+        "model": "products.movie",
+        "fields": {
+          "sku": "gg0006",
+          "name": "The Matrix",
+          "description": "Neo (Keanu Reeves) believes that Morpheus (Laurence Fishburne), an elusive figure considered to be the most dangerous man alive, can answer his question -- What is the Matrix? Neo is contacted by Trinity (Carrie-Anne Moss), a beautiful stranger who leads him into an underworld where he meets Morpheus. They fight a brutal battle for their lives against a cadre of viciously intelligent secret agents. It is a truth that could cost Neo something more precious than his life.",
+          "price": 7.50,
+          "category": 9,
+          "image_url": "/media/the matrix.jpg",
+          "image": null
+    }
+
+    {
+        "pk": 1,
+        "model": "products.movie",
+        "fields": {
+          "sku": "gg0007",
+          "name": "The Ring",
+          "description": "It sounds like just another urban legend -- a videotape filled with nightmarish images leads to a phone call foretelling the viewer's death in exactly seven days. Newspaper reporter Rachel Keller (Naomi Watts) is skeptical of the story until four teenagers all die mysteriously exactly one week after watching just such a tape. Allowing her investigative curiosity to get the better of her, Rachel tracks down the video and watches it. Now she has just seven days to unravel the mystery.",
+          "price": 3.50,
+          "category": 1,
+          "image_url": "/media/the ring.jpeg",
+          "image": null
+    }
+
+    {
+        "pk": 1,
+        "model": "products.movie",
+        "fields": {
+          "sku": "gg0008",
+          "name": "Die Hard",
+          "description": "New York City policeman John McClane (Bruce Willis) is visiting his estranged wife (Bonnie Bedelia) and two daughters on Christmas Eve. He joins her at a holiday party in the headquarters of the Japanese-owned business she works for. But the festivities are interrupted by a group of terrorists who take over the exclusive high-rise, and everyone in it. Very soon McClane realizes that there's no one to save the hostages -- but him.",
+          "price": 7.50,
+          "category": 5,
+          "image_url": "/media/die hard.jpg",
+          "image": null
+    }
+
+    {
+        "pk": 1,
+        "model": "products.movie",
+        "fields": {
+          "sku": "gg0009",
+          "name": "Avengers: Endgame",
+          "description": "Adrift in space with no food or water, Tony Stark sends a message to Pepper Potts as his oxygen supply starts to dwindle. Meanwhile, the remaining Avengers -- Thor, Black Widow, Captain America and Bruce Banner -- must figure out a way to bring back their vanquished allies for an epic showdown with Thanos -- the evil demigod who decimated the planet and the universe.",
+          "price": 8.50,
+          "category": 4,
+          "image_url": "/media/avengers endgame.jpeg",
+          "image": null
+    }
+
+    {
+        "pk": 1,
+        "model": "products.movie",
+        "fields": {
+          "sku": "gg0010",
+          "name": "Goodfellas",
+          "description": "A young man grows up in the mob and works very hard to advance himself through the ranks. He enjoys his life of money and luxury, but is oblivious to the horror that he causes. A drug addiction and a few mistakes ultimately unravel his climb to the top. Based on the book Wiseguy by Nicholas Pileggi.",
+          "price": 10.50,
+          "category": 10,
+          "image_url": "/media/goodfellas.jpg",
+          "image": null
+    }
+
+    {
+        "pk": 1,
+        "model": "products.movie",
+        "fields": {
+          "sku": "gg0011",
+          "name": "Home Alone",
+          "description": "When bratty 8-year-old Kevin McCallister (Macaulay Culkin) acts out the night before a family trip to Paris, his mother (Catherine O'Hara) makes him sleep in the attic. After the McCallisters mistakenly leave for the airport without Kevin, he awakens to an empty house and assumes his wish to have no family has come true. But his excitement sours when he realizes that two con men (Joe Pesci, Daniel Stern) plan to rob the McCallister residence, and that he alone must protect the family home.",
+          "price": 4.50,
+          "category": 7,
+          "image_url": "/media/home alone.jpeg",
+          "image": null
+    }
+
+    {
+        "pk": 1,
+        "model": "products.movie",
+        "fields": {
+          "sku": "gg0012",
+          "name": "Interstellar",
+          "description": "In Earth's future, a global crop blight and second Dust Bowl are slowly rendering the planet uninhabitable. Professor Brand (Michael Caine), a brilliant NASA physicist, is working on plans to save mankind by transporting Earth's population to a new home via a wormhole. But first, Brand must send former NASA pilot Cooper (Matthew McConaughey) and a team of researchers through the wormhole and across the galaxy to find out which of three planets could be mankind's new home.",
+          "price": 10.50,
+          "category": 9,
+          "image_url": "/media/interstellar.jpg",
+          "image": null
+    }
+
+    {
+        "pk": 1,
+        "model": "products.movie",
+        "fields": {
+          "sku": "gg0013",
+          "name": "Lord of the Rings: The Fellowship of the Ring",
+          "description": "The future of civilization rests in the fate of the One Ring, which has been lost for centuries. Powerful forces are unrelenting in their search for it. But fate has placed it in the hands of a young Hobbit named Frodo Baggins (Elijah Wood), who inherits the Ring and steps into legend. A daunting task lies ahead for Frodo when he becomes the Ringbearer - to destroy the One Ring in the fires of Mount Doom where it was forged.",
+          "price": 6.50,
+          "category": 6,
+          "image_url": "/media/lotr1.jpeg",
+          "image": null
+    }
+
+    {
+        "pk": 1,
+        "model": "products.movie",
+        "fields": {
+          "sku": "gg0014",
+          "name": "Lord of the Rings: The Two Towers",
+          "description": "The sequel to the Golden Globe-nominated and AFI Award-winning The Lord of the Rings: The Fellowship of the Ring, The Two Towers follows the continuing quest of Frodo (Elijah Wood) and the Fellowship to destroy the One Ring. Frodo and Sam (Sean Astin) discover they are being followed by the mysterious Gollum. Aragorn (Viggo Mortensen), the Elf archer Legolas and Gimli the Dwarf encounter the besieged Rohan kingdom, whose once great King Theoden has fallen under Saruman's deadly spell.",
+          "price": 6.50,
+          "category": 6,
+          "image_url": "/media/lotr2.jpeg",
+          "image": null
+    }
+
+    {
+        "pk": 1,
+        "model": "products.movie",
+        "fields": {
+          "sku": "gg0015",
+          "name": "Lord of the Rings: The Return of the King",
+          "description": "The culmination of nearly 10 years' work and conclusion to Peter Jackson's epic trilogy based on the timeless J.R.R. Tolkien classic, "The Lord of the Rings: The Return of the King" presents the final confrontation between the forces of good and evil fighting for control of the future of Middle-earth. Hobbits Frodo and Sam reach Mordor in their quest to destroy the `one ring', while Aragorn leads the forces of good against Sauron's evil army at the stone city of Minas Tirith.",
+          "price": 6.50,
+          "category": 6,
+          "image_url": "/media/lotr3.jpg",
+          "image": null
+    }
+
+    {
+        "pk": 1,
+        "model": "products.movie",
+        "fields": {
+          "sku": "gg0016",
+          "name": "Love Actually",
+          "description": "Nine intertwined stories examine the complexities of the one emotion that connects us all: love. Among the characters explored are David (Hugh Grant), the handsome newly elected British prime minister who falls for a young junior staffer (Martine McCutcheon), Sarah (Laura Linney), a graphic designer whose devotion to her mentally ill brother complicates her love life, and Harry (Alan Rickman), a married man tempted by his attractive new secretary.",
+          "price": 3.50,
+          "category": 8,
+          "image_url": "/media/love actually.jpg",
+          "image": null
+    }
+
+    {
+        "pk": 1,
+        "model": "products.movie",
+        "fields": {
+          "sku": "gg0017",
+          "name": "Mission Impossible: Fallout",
+          "description": "Ethan Hunt and the IMF team join forces with CIA assassin August Walker to prevent a disaster of epic proportions. Arms dealer John Lark and a group of terrorists known as the Apostles plan to use three plutonium cores for a simultaneous nuclear attack on the Vatican, Jerusalem and Mecca, Saudi Arabia. When the weapons go missing, Ethan and his crew find themselves in a desperate race against time to prevent them from falling into the wrong hands.",
+          "price": 5.50,
+          "category": 5,
+          "image_url": "/media/mission impossible fallout.jpg",
+          "image": null
+    }
+
+    {
+        "pk": 1,
+        "model": "products.movie",
+        "fields": {
+          "sku": "gg0018",
+          "name": "Napoleon Dynamite",
+          "description": "In small-town Preston, Idaho, awkward teen Napoleon Dynamite (Jon Heder) has trouble fitting in. After his grandmother is injured in an accident, his life is made even worse when his strangely nostalgic uncle, Rico (Jon Gries), shows up to keep an eye on him. With no safe haven at home or at school, Napoleon befriends the new kid, Pedro (Efren Ramirez), a morose Hispanic boy who speaks little English. Together the two launch a campaign to run for class president.",
+          "price": 3.50,
+          "category": 2,
+          "image_url": "/media/napoleon dynamite.jpeg",
+          "image": null
+    }
+
+    {
+        "pk": 1,
+        "model": "products.movie",
+        "fields": {
+          "sku": "gg0019",
+          "name": "Nightmare on Elm Street",
+          "description": "In Wes Craven's classic slasher film, several Midwestern teenagers fall prey to Freddy Krueger (Robert Englund), a disfigured midnight mangler who preys on the teenagers in their dreams -- which, in turn, kills them in reality. After investigating the phenomenon, Nancy (Heather Langenkamp) begins to suspect that a dark secret kept by her and her friends' parents may be the key to unraveling the mystery, but can Nancy and her boyfriend Glen (Johnny Depp) solve the puzzle before it's too late?",
+          "price": 5.50,
+          "category": 1,
+          "image_url": "/media/nightmare on elm street.jpg",
+          "image": null
+    }
+
+    {
+        "pk": 1,
+        "model": "products.movie",
+        "fields": {
+          "sku": "gg0020",
+          "name": "Pulp Fiction",
+          "description": "Vincent Vega (John Travolta) and Jules Winnfield (Samuel L. Jackson) are hitmen with a penchant for philosophical discussions. In this ultra-hip, multi-strand crime movie, their storyline is interwoven with those of their boss, gangster Marsellus Wallace (Ving Rhames) ; his actress wife, Mia (Uma Thurman) ; struggling boxer Butch Coolidge (Bruce Willis) ; master fixer Winston Wolfe (Harvey Keitel) and a nervous pair of armed robbers, "Pumpkin" (Tim Roth) and "Honey Bunny" (Amanda Plummer).",
+          "price": 8.50,
+          "category": 10,
+          "image_url": "/media/pulp fiction.jpeg",
+          "image": null
+    }
+
+    {
+        "pk": 1,
+        "model": "products.movie",
+        "fields": {
+          "sku": "gg0021",
+          "name": "Saving Private Ryan",
+          "description": "Captain John Miller (Tom Hanks) takes his men behind enemy lines to find Private James Ryan, whose three brothers have been killed in combat. Surrounded by the brutal realties of war, while searching for Ryan, each man embarks upon a personal journey and discovers their own strength to triumph over an uncertain future with honor, decency and courage.",
+          "price": 8.50,
+          "category": 5,
+          "image_url": "/media/saving private ryan.jpg",
+          "image": null
+    }
+
+    {
+        "pk": 1,
+        "model": "products.movie",
+        "fields": {
+          "sku": "gg0022",
+          "name": "The Shawshank Redemption",
+          "description": "Andy Dufresne (Tim Robbins) is sentenced to two consecutive life terms in prison for the murders of his wife and her lover and is sentenced to a tough prison. However, only Andy knows he didn't commit the crimes. While there, he forms a friendship with Red (Morgan Freeman), experiences brutality of prison life, adapts, helps the warden, etc., all in 19 years.",
+          "price": 8.50,
+          "category": 10,
+          "image_url": "/media/shawshank redemption.jpeg",
+          "image": null
+    }
+
+    {
+        "pk": 1,
+        "model": "products.movie",
+        "fields": {
+          "sku": "gg0023",
+          "name": "Spider-man",
+          "description": "Spider-Man centers on student Peter Parker (Tobey Maguire) who, after being bitten by a genetically-altered spider, gains superhuman strength and the spider-like ability to cling to any surface. He vows to use his abilities to fight crime, coming to understand the words of his beloved Uncle Ben: "With great power comes great responsibility."",
+          "price": 5.00,
+          "category": 4,
+          "image_url": "/media/spidey1.jpeg",
+          "image": null
+    }
+
+    {
+        "pk": 1,
+        "model": "products.movie",
+        "fields": {
+          "sku": "gg0024",
+          "name": "Star Wars: The Phantom Menace",
+          "description": "Obi-Wan Kenobi (Ewan McGregor) is a young apprentice Jedi knight under the tutelage of Qui-Gon Jinn (Liam Neeson) ; Anakin Skywalker (Jake Lloyd), who will later father Luke Skywalker and become known as Darth Vader, is just a 9-year-old boy. When the Trade Federation cuts off all routes to the planet Naboo, Qui-Gon and Obi-Wan are assigned to settle the matter.",
+          "price": 7.25,
+          "category": 9,
+          "image_url": "/media/star wars 1.jpg",
+          "image": null
+    }
+
+    {
+        "pk": 1,
+        "model": "products.movie",
+        "fields": {
+          "sku": "gg0025",
+          "name": "Star Wars: Attack of the Clones",
+          "description": "Set ten years after the events of The Phantom Menace the Republic continues to be mired in strife and chaos. A separatist movement encompassing hundreds of planets and powerful corporate alliances poses new threats to the galaxy that even the Jedi cannot stem. These moves, long planned by an as yet unrevealed and powerful force, lead to the beginning of the Clone Wars -- and the beginning of the end of the Republic.",
+          "price": 7.25,
+          "category": 9,
+          "image_url": "/media/star wars 2.jpeg",
+          "image": null
+    }
+
+    {
+        "pk": 1,
+        "model": "products.movie",
+        "fields": {
+          "sku": "gg0026",
+          "name": "White Chicks",
+          "description": "Two FBI agent brothers, Marcus (Marlon Wayans) and Kevin Copeland (Shawn Wayans), accidentally foil a drug bust. As punishment, they are forced to escort a pair of socialites (Anne Dudek, Rochelle Aytes) to the Hamptons, where they're going to be used as bait for a kidnapper. But when the girls realize the FBI's plan, they refuse to go. Left without options, Marcus and Kevin decide to pose as the sisters, transforming themselves from African-American men into a pair of blonde, white women.",
+          "price": 2.50,
+          "category": 2,
+          "image_url": "/media/white chicks.jpeg",
+          "image": null
+    }
+
+    {
+        "pk": 1,
+        "model": "products.movie",
+        "fields": {
+          "sku": "gg0027",
+          "name": "Star Wars: Revenge of the Sith",
+          "description": "It has been three years since the Clone Wars began. Jedi Master Obi-Wan Kenobi (Ewan McGregor) and Jedi Knight Anakin Skywalker (Hayden Christensen) rescue Chancellor Palpatine (Ian McDiarmid) from General Grievous, the commander of the droid armies, but Grievous escapes. Suspicions are raised within the Jedi Council concerning Chancellor Palpatine, with whom Anakin has formed a bond. Asked to spy on the chancellor, and full of bitterness toward the Jedi Council, Anakin embraces the Dark Side.",
+          "price": 7.25,
+          "category": 9,
+          "image_url": "/media/star wars 3.jpeg",
+          "image": null
+    }
+
+    {
+        "pk": 1,
+        "model": "products.movie",
+        "fields": {
+          "sku": "gg0028",
+          "name": "Star Wars: A New Hope",
+          "description": "The Imperial Forces -- under orders from cruel Darth Vader (David Prowse) -- hold Princess Leia (Carrie Fisher) hostage, in their efforts to quell the rebellion against the Galactic Empire. Luke Skywalker (Mark Hamill) and Han Solo (Harrison Ford), captain of the Millennium Falcon, work together with the companionable droid duo R2-D2 (Kenny Baker) and C-3PO (Anthony Daniels) to rescue the beautiful princess, help the Rebel Alliance, and restore freedom and justice to the Galaxy.",
+          "price": 7.25,
+          "category": 9,
+          "image_url": "/media/star wars 4.jpeg",
+          "image": null
+    }
+
+    {
+        "pk": 1,
+        "model": "products.movie",
+        "fields": {
+          "sku": "gg0029",
+          "name": "Step Brothers",
+          "description": "Brennan Huff (Will Ferrell) and Dale Doback (John C. Reilly) have one thing in common: they are both lazy, unemployed leeches who still live with their parents. When Brennan's mother and Dale's father marry and move in together, it turns the overgrown boys' world upside down. Their insane rivalry and narcissism pull the new family apart, forcing them to work together to reunite their parents.",
+          "price": 4.50,
+          "category": 2,
+          "image_url": "/media/step brothers.jpg",
+          "image": null
+    }
+
+    {
+        "pk": 1,
+        "model": "products.movie",
+        "fields": {
+          "sku": "gg0030",
+          "name": "Superbad",
+          "description": "Two inseparable best friends navigate the last weeks of high school and are invited to a gigantic house party. Together with their nerdy friend, they spend a long day trying to score enough alcohol to supply the party and inebriate two girls in order to kick-start their sex lives before they go off to college. Their quest is complicated after one of them falls in with two inept cops who are determined to show him a good time.",
+          "price": 5.50,
+          "category": 2,
+          "image_url": "/media/superbad.jpg",
+          "image": null
+    }
+
+    {
+        "pk": 1,
+        "model": "products.movie",
+        "fields": {
+          "sku": "gg0031",
+          "name": "Ted",
+          "description": "When John Bennett (Mark Wahlberg) was a little boy, he made a wish that Ted (Seth MacFarlane), his beloved teddy bear, would come alive. Thirty years later, foul-mouthed Ted is still John's constant companion, much to the chagrin of Lori (Mila Kunis), John's girlfriend. Though Lori's displeasure is exacerbated by the pair's constant consumption of beer and weed, she's not the one who's most disappointed with John; it may take the intervention of John's boyhood toy to help him grow up at last.",
+          "price": 6.50,
+          "category": 2,
+          "image_url": "/media/ted.png",
+          "image": null
+    }
+
+    {
+        "pk": 1,
+        "model": "products.movie",
+        "fields": {
+          "sku": "gg0032",
+          "name": "The Excorcist",
+          "description": "One of the most profitable horror movies ever made, this tale of an exorcism is based loosely on actual events. When young Regan (Linda Blair) starts acting odd -- levitating, speaking in tongues -- her worried mother (Ellen Burstyn) seeks medical help, only to hit a dead end. A local priest (Jason Miller), however, thinks the girl may be seized by the devil. The priest makes a request to perform an exorcism, and the church sends in an expert (Max von Sydow) to help with the difficult job.",
+          "price": 5.00,
+          "category": 1,
+          "image_url": "/media/the exorcist.jpg",
+          "image": null
+    }
+
+    {
+        "pk": 1,
+        "model": "products.movie",
+        "fields": {
+          "sku": "gg0033",
+          "name": "The Godfather",
+          "description": "Widely regarded as one of the greatest films of all time, this mob drama, based on Mario Puzo's novel of the same name, focuses on the powerful Italian-American crime family of Don Vito Corleone (Marlon Brando). When the don's youngest son, Michael (Al Pacino), reluctantly joins the Mafia, he becomes involved in the inevitable cycle of violence and betrayal. Although Michael tries to maintain a normal relationship with his wife, Kay (Diane Keaton), he is drawn deeper into the family business.",
+          "price": 10.50,
+          "category": 10,
+          "image_url": "/media/the godfather.jpg",
+          "image": null
+    }
+
+    {
+        "pk": 1,
+        "model": "products.movie",
+        "fields": {
+          "sku": "gg0034",
+          "name": "The Hangover",
+          "description": "Two days before his wedding, Doug (Justin Bartha) and three friends (Bradley Cooper, Ed Helms, Zach Galifianakis) drive to Las Vegas for a wild and memorable stag party. In fact, when the three groomsmen wake up the next morning, they can't remember a thing; nor can they find Doug. With little time to spare, the three hazy pals try to re-trace their steps and find Doug so they can get him back to Los Angeles in time to walk down the aisle.",
+          "price": 7.50,
+          "category": 2,
+          "image_url": "/media/the hangover.jpeg",
+          "image": null
+    }
+]
